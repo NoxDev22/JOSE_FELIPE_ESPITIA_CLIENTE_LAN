@@ -1,4 +1,6 @@
 #!/bin/sh
+# Dirección del servidor objetivo en la DMZ
+TARGET="https://servidor-web-dmz-jose-sibaja.onrender.com"
 
 # Simulación de un dato confidencial a exfiltrar (ej. un token o credencial)
 DATOS_SENSIBLES="clave_secreta_banco_2026"
