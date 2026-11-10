@@ -1,4 +1,6 @@
 #!/bin/sh
+# Dirección del servidor objetivo en la DMZ
+TARGET="https://servidor-web-dmz-jose-sibaja.onrender.com"
 
 echo "=== INICIANDO SERVICIO COMPROMETIDO EN LA CADENA DE SUMINISTRO ==="
 echo "Verificando integridad del contenedor..."
